@@ -1,0 +1,7 @@
+streamlit
+PyPDF2 
+spacy 
+faiss-cpu 
+networkx 
+matplotlib 
+sentence-transformers
